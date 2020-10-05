@@ -1,7 +1,7 @@
-input("Que caballero de oro del zodiaco eres?") 
+input('Que caballero de oro del zodiaco eres?') 
 
-mes = int(input("Ingrese su mes de nacimiento:" ))
-dia = int(input("Ingrese su día de nacimiento: "))
+mes = int(input('Ingrese su mes de nacimiento:' ))
+dia = int(input('Ingrese su día de nacimiento: '))
 
 if (dia>=21 and mes==3) or (dia<=20 and mes==4):
     print ('Eres el caballero de Aries')
