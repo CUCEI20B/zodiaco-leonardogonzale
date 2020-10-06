@@ -1,5 +1,3 @@
-input() 
-
 mes = int(input('Ingrese su mes de nacimiento:' ))
 dia = int(input('Ingrese su día de nacimiento: '))
 
